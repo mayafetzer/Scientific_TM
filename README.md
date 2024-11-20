@@ -6,6 +6,8 @@
 ## Public Streamlit App 
 Version created by Maya Fetzer: https://scientifictm.streamlit.app/
 
+Note to grader. Please use your own API key to run this program. My API key is out of tokens :( 
+
 Code used from below authors. 
 
 Scientific Text Mining is a Streamlit-based web application designed to facilitate the interactive querying of text extracted from PDF files. It leverages advanced NLP models from OpenAI, embedded via the LangChain library, to provide a conversational interface where users can upload PDFs and ask questions directly related to the content.
